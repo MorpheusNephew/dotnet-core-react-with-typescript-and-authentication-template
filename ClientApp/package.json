@@ -24,7 +24,7 @@
     "ajv": "^6.9.1",
     "cross-env": "^5.2.0",
     "glob-parent": "^5.1.2",
-    "immer": "^8.0.1",
+    "immer": "^9.0.6",
     "nan": "^2.14.1",
     "node-notifier": "^8.0.1",
     "react-dev-utils": "^11.0.4",
